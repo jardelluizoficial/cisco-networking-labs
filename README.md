@@ -7,6 +7,7 @@ Laboratórios de redes desenvolvidos durante meus estudos na Cisco Networking Ac
 | Laboratório | Conteúdos praticados | Status |
 | --- | --- | --- |
 | [Rede doméstica com roteador sem fio](rede-domestica-packet-tracer/README.md) | Cabeamento, DHCP, gateway, Wi-Fi 2,4 GHz e WPA2 Personal | Concluído |
+| [Conectar-se a um servidor Web](conexao-servidor-web-packet-tracer/README.md) | Conectividade IP, ping (ICMP) e acesso Web por endereço IP (HTTP) | Concluído |
 
 ## Objetivo
 
