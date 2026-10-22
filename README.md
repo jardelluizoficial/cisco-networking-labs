@@ -30,6 +30,8 @@ Baixe o arquivo e abra-o no Cisco Packet Tracer. As capturas e as explicações 
 
 As práticas ajudam a conferir IP e gateway, verificar a conexão por cabo ou Wi-Fi, repetir testes e diferenciar um problema de conectividade de um problema de acesso a um serviço.
 
+Para aplicar o diagnóstico em Windows, veja a [prática de falha de DNS](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/tree/main/diagnostico-dns), com comparação entre ping, consulta ao DNS configurado e consulta direta ao servidor correto.
+
 Para explorar outros cenários, veja os [laboratórios de Windows e Active Directory](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) e os [trabalhos de redes da faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade).
 
 ---
