@@ -2,7 +2,7 @@
 
 Práticas de redes realizadas durante meus estudos na **Cisco Networking Academy**, usando o **Cisco Packet Tracer**. Registro as configurações, as dificuldades encontradas e as evidências dos testes.
 
-[Perfil](https://github.com/jardelluizoficial) · [Suporte N1](https://github.com/jardelluizoficial/laboratorio-suporte-n1) · **Cisco** · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
+[Perfil](https://github.com/jardelluizoficial) · [Suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) · **Cisco** · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
 
 ## Explore as práticas
 
