@@ -2,7 +2,7 @@
 
 Práticas de redes realizadas durante meus estudos na **Cisco Networking Academy**, usando o **Cisco Packet Tracer**. Registro as configurações, as dificuldades encontradas e as evidências dos testes.
 
-[Perfil](https://github.com/jardelluizoficial) · [Suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) · **Cisco** · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
+[Perfil](https://github.com/jardelluizoficial) · [Suporte](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) · **Cisco** · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
 
 ## Explore as práticas
 
@@ -30,7 +30,7 @@ Baixe o arquivo e abra-o no Cisco Packet Tracer. As capturas e as explicações 
 
 As práticas ajudam a conferir IP e gateway, verificar a conexão por cabo ou Wi-Fi, repetir testes e diferenciar um problema de conectividade de um problema de acesso a um serviço.
 
-Para explorar outros cenários, veja os [laboratórios de Windows e Active Directory](https://github.com/jardelluizoficial/laboratorio-suporte-n1) e os [trabalhos de redes da faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade).
+Para explorar outros cenários, veja os [laboratórios de Windows e Active Directory](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) e os [trabalhos de redes da faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade).
 
 ---
 
