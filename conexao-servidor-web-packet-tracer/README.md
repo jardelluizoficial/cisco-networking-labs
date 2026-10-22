@@ -1,10 +1,14 @@
 # Packet Tracer — Conectar-se a um servidor Web
 
+[← Laboratórios Cisco](../README.md) · [Perfil](https://github.com/jardelluizoficial)
+
 `Cisco Packet Tracer` · `IPv4` · `ICMP` · `HTTP`
 
 Laboratório baseado na atividade **Conectar-se a um servidor Web**, da Cisco Networking Academy.
 
 **Data:** 21/10/2026 · **Resultado:** conectividade IP confirmada e página do servidor Web carregada no PC0.
+
+**Nesta página:** [Cenário](#cenário) · [Ping inicial](#1-teste-inicial-de-conectividade) · [Confirmação](#2-confirmação-da-conectividade) · [HTTP](#3-acesso-ao-servidor-web) · [Validação](#validação) · [Arquivos](#arquivos-e-evidências)
 
 ## Objetivo
 
@@ -115,3 +119,7 @@ Os resultados da execução estão registrados nas capturas de tela e na documen
 ---
 
 Documentação de estudo por **Jardel Luiz**. Cenário e atividade educacional: **Cisco Networking Academy**.
+
+---
+
+[← Anterior: rede doméstica](../rede-domestica-packet-tracer/README.md) · [Voltar ao índice Cisco](../README.md)

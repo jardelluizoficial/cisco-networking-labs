@@ -1,10 +1,14 @@
 # Rede doméstica com roteador sem fio
 
+[← Laboratórios Cisco](../README.md) · [Perfil](https://github.com/jardelluizoficial)
+
 `Cisco Packet Tracer` · `DHCP` · `Wi-Fi` · `WPA2 Personal`
 
 Configuração de uma rede doméstica com dois computadores conectados por cabo e um notebook conectado por Wi-Fi. Laboratório baseado na atividade **4.4.4 — Configurar um roteador sem fio e clientes**, da Cisco Networking Academy.
 
 **Data:** 20/10/2026 · **Resultado:** atividade concluída, conforme a avaliação do simulador.
+
+**Nesta página:** [Objetivo](#objetivo) · [Configurações](#configurações-do-roteador) · [Dificuldade encontrada](#dificuldade-encontrada-e-solução-aplicada) · [Validação](#validação) · [Arquivos](#arquivos-e-evidências)
 
 ## Objetivo
 
@@ -98,23 +102,27 @@ Esses fundamentos ajudam na análise de problemas de conectividade em suporte re
 
 ## Arquivos e evidências
 
-As imagens do cenário inicial e da conclusão estão incluídas nesta documentação. Os demais prints da execução podem ser adicionados à pasta `imagens/` com os nomes abaixo:
+As capturas do cenário inicial e da conclusão aparecem acima. As demais evidências da execução estão disponíveis nos links abaixo:
 
 | Arquivo | Evidência |
 | --- | --- |
-| 02-conexao-coaxial-tv.png | TV funcionando e conexões coaxiais |
-| 03-rede-cabeada-conectada.png | Conexões Ethernet concluídas |
-| 04-office-pc-dhcp.png | Configuração IP recebida pelo Office PC |
-| 05-configuracao-dhcp.png | Limite de 10 endereços no DHCP |
-| 06-configuracao-ssid.png | Rede MyHome em 2,4 GHz |
-| 07-seguranca-wifi.png | Configuração WPA2 Personal |
-| 08-laptop-wifi-conectado.png | Confirmação da associação ao ponto de acesso |
-| 09-laptop-teste-web.png | Página de teste aberta no notebook |
-| 10-office-pc-teste-web.png | Página de teste aberta no Office PC |
-| 11-bedroom-pc-teste-web.png | Página de teste aberta no Bedroom PC |
+| [02-conexao-coaxial-tv.png](imagens/02-conexao-coaxial-tv.png) | TV funcionando e conexões coaxiais |
+| [03-rede-cabeada-conectada.png](imagens/03-rede-cabeada-conectada.png) | Conexões Ethernet concluídas |
+| [04-office-pc-dhcp.png](imagens/04-office-pc-dhcp.png) | Configuração IP recebida pelo Office PC |
+| [05-configuracao-dhcp.png](imagens/05-configuracao-dhcp.png) | Limite de 10 endereços no DHCP |
+| [06-configuracao-ssid.png](imagens/06-configuracao-ssid.png) | Rede MyHome em 2,4 GHz |
+| [07-seguranca-wifi.png](imagens/07-seguranca-wifi.png) | Configuração WPA2 Personal |
+| [08-laptop-wifi-conectado.png](imagens/08-laptop-wifi-conectado.png) | Confirmação da associação ao ponto de acesso |
+| [09-laptop-teste-web.png](imagens/09-laptop-teste-web.png) | Página de teste aberta no notebook |
+| [10-office-pc-teste-web.png](imagens/10-office-pc-teste-web.png) | Página de teste aberta no Office PC |
+| [11-bedroom-pc-teste-web.png](imagens/11-bedroom-pc-teste-web.png) | Página de teste aberta no Bedroom PC |
 
-Para guardar a execução, salve o arquivo no Packet Tracer como `rede-domestica.pka` e adicione-o nesta pasta. O arquivo `.pka` precisa ser aberto no Cisco Packet Tracer.
+**Arquivo da atividade:** [rede-domestica.pka](rede-domestica.pka). Baixe e abra no Cisco Packet Tracer para consultar o cenário; os resultados da execução estão registrados nas capturas e no texto acima.
 
 ---
 
 Documentação de estudo por **Jardel Luiz**. Cenário e atividade educacional: **Cisco Networking Academy**.
+
+---
+
+[← Voltar ao índice Cisco](../README.md) · [Próximo: acesso a um servidor web →](../conexao-servidor-web-packet-tracer/README.md)
