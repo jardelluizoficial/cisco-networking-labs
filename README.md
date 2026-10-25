@@ -10,6 +10,7 @@ Práticas de redes realizadas durante meus estudos na **Cisco Networking Academy
 | --- | --- | --- |
 | **[01 · Rede doméstica com Wi-Fi](rede-domestica-packet-tracer/README.md)** | Cabeamento, endereçamento automático por DHCP, gateway e Wi-Fi com WPA2 Personal. | Dispositivos conectados e atividade concluída no simulador. |
 | **[02 · Acesso a um servidor web](conexao-servidor-web-packet-tracer/README.md)** | Ping, interpretação de perda de pacotes e teste de HTTP no navegador. | Repetição do ping sem perdas e página web carregada. |
+| **[03 · NAT em um roteador sem fio](nat-roteador-sem-fio/README.md)** | Quatro PCs com DHCP, endereços LAN/WAN e análise de cabeçalhos TCP na simulação. | Tradução NAT comprovada na ida e no retorno, com 21 evidências e atividade concluída. |
 
 Os laboratórios estão documentados; a trilha de estudos continua em andamento.
 
@@ -23,6 +24,7 @@ Os laboratórios estão documentados; a trilha de estudos continua em andamento.
 
 - [Rede doméstica — `rede-domestica.pka`](rede-domestica-packet-tracer/rede-domestica.pka)
 - [Servidor web — `conexao-servidor-web.pka`](conexao-servidor-web-packet-tracer/conexao-servidor-web.pka)
+- [NAT — `examinando-nat-roteador-sem-fio.pka`](nat-roteador-sem-fio/examinando-nat-roteador-sem-fio.pka)
 
 Baixe o arquivo e abra-o no Cisco Packet Tracer. As capturas e as explicações podem ser consultadas diretamente no GitHub, sem abrir o simulador.
 
