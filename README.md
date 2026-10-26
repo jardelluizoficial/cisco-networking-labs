@@ -12,6 +12,7 @@ Práticas de redes realizadas durante meus estudos na **Cisco Networking Academy
 | **[02 · Acesso a um servidor web](conexao-servidor-web-packet-tracer/README.md)** | Ping, interpretação de perda de pacotes e teste de HTTP no navegador. | Repetição do ping sem perdas e página web carregada. |
 | **[03 · NAT em um roteador sem fio](nat-roteador-sem-fio/README.md)** | Quatro PCs com DHCP, endereços LAN/WAN e análise de cabeçalhos TCP na simulação. | Tradução NAT comprovada na ida e no retorno, com 21 evidências e atividade concluída. |
 | **[04 · MAC e IP em redes locais e remotas](identificar-enderecos-mac-ip/README.md)** | Ping, quadros Ethernet e Wi-Fi, endereços MAC/IP e encaminhamento entre redes. | Percurso de ida e volta documentado, 26 capturas, tabelas em Excel e 15 respostas comentadas. |
+| **[05 · Criar uma LAN](criar-uma-lan/README.md)** | Cabeamento, DHCP, impressora com IP fixo, HTTP/DNS e tracert. | Dois PCs alcançaram a impressora sem perdas; acesso web validado, falha de DHCP corrigida e 14 capturas. |
 
 Os laboratórios estão documentados; a trilha de estudos continua em andamento.
 
@@ -27,6 +28,7 @@ Os laboratórios estão documentados; a trilha de estudos continua em andamento.
 - [Servidor web — `conexao-servidor-web.pka`](conexao-servidor-web-packet-tracer/conexao-servidor-web.pka)
 - [NAT — `examinando-nat-roteador-sem-fio.pka`](nat-roteador-sem-fio/examinando-nat-roteador-sem-fio.pka)
 - [MAC e IP — `identificar-enderecos-mac-ip.pka`](identificar-enderecos-mac-ip/identificar-enderecos-mac-ip.pka)
+- [Criar uma LAN — `criar-uma-lan.pka`](criar-uma-lan/criar-uma-lan.pka)
 
 Baixe o arquivo e abra-o no Cisco Packet Tracer. As capturas e as explicações podem ser consultadas diretamente no GitHub, sem abrir o simulador.
 
